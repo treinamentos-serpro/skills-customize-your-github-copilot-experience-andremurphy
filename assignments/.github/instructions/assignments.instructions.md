@@ -1,6 +1,6 @@
 ---
 description: "Instruções para usar sempre que criar ou editar arquivos markdown de assignment, garantindo consistência e clareza para os alunos."
-applyTo: "assignments/**/README.md"
+applyTo: "**/assignments/**/README.md"
 ---
 
 # Diretrizes de Estrutura para Markdowns de Tarefas
